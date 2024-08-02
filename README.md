@@ -53,7 +53,10 @@ Reports: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/
 
 
 Flop Ratio = Number of flops / total number of cells = 1613/14876 = 0.108429
+
 % Flop = 10.84 %
+![image](https://github.com/user-attachments/assets/ddae5d50-2d62-4684-8e2c-8b4488bc83e5)
+
 
 
 
