@@ -124,9 +124,11 @@ To zoom in, click left mouse button, then right mouse button. A rectangle will f
 
 Hover over signal IO and press "S". Type "what" in console to get details.
 ![image](https://github.com/user-attachments/assets/d878273f-f008-4584-a511-1dd15c621c1a)
+
 ![image](https://github.com/user-attachments/assets/94d4e265-1ca2-4a46-a5ad-2c54fb7b82aa)
 
 Selecting bottol vertical IO pin:
+
 ![image](https://github.com/user-attachments/assets/fcbb6004-b97a-4828-b695-b107a3ff9976)
 
 
