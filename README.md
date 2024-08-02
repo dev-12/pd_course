@@ -146,6 +146,9 @@ Open DEF using magic.
 
 Command: magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
 ![image](https://github.com/user-attachments/assets/24c531c9-ad1d-4bf6-9b18-9791d95a3147)
+Zoomed In:
+![image](https://github.com/user-attachments/assets/7ce7ffb0-0a08-43b8-9431-d64f7defe095)
+
 
 PDN is done post placement, CTS in openlane. In general, PDN happens during floorplan. 
 
