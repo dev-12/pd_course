@@ -84,6 +84,16 @@ Tool defaults in floorplan.tcl: /home/vsduser/Desktop/work/tools/openlane_workin
 ![image](https://github.com/user-attachments/assets/f67b5f0e-33a3-4602-b28b-913a49f4995f)
 
 This file has lowest priority.
+
 Next higher priority - /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
+
 Next higher priority - /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/sky130A_sky130_fd_sc_hd_config.tcl
+
+Parameters in config.tcl:
+![image](https://github.com/user-attachments/assets/b1e7a0ad-5aad-4564-9448-61f2074cab78)
+Note: Metal layers created in floorplan stage in openlane tool are always +1 than what user specifies.
+
+Paramaters in sky130A_sky130_fd_sc_hd_config.tcl:
+![image](https://github.com/user-attachments/assets/1d20164b-03dd-4373-a031-cc203b0b1d14)
+
 
