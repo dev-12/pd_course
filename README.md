@@ -120,7 +120,19 @@ Command: magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky
 Press "S" to select design and "V" to put in centre.
 ![image](https://github.com/user-attachments/assets/b09ba89d-d6a4-4b17-a3ea-3e2aeb0789dd)
 
-To zoom in, click left mouse button, then right mouse button. A rectangle will form. Press "Z".
+To zoom in, click left mouse button, then right mouse button. A rectangle will form. Press "Z" to zoom. Shift + Z to zoom out.
+
+Hover over signal IO and press "S". Type "what" in console to get details.
+![image](https://github.com/user-attachments/assets/d878273f-f008-4584-a511-1dd15c621c1a)
+![image](https://github.com/user-attachments/assets/94d4e265-1ca2-4a46-a5ad-2c54fb7b82aa)
+
+Selecting bottol vertical IO pin:
+![image](https://github.com/user-attachments/assets/fcbb6004-b97a-4828-b695-b107a3ff9976)
+
+
+
+
+
 
 
 
