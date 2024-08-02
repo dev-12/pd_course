@@ -96,4 +96,22 @@ Note: Metal layers created in floorplan stage in openlane tool are always +1 tha
 Paramaters in sky130A_sky130_fd_sc_hd_config.tcl:
 ![image](https://github.com/user-attachments/assets/1d20164b-03dd-4373-a031-cc203b0b1d14)
 
+Running floorplan:
+
+Command: run_floorplan
+![image](https://github.com/user-attachments/assets/2b2e16bc-474f-45e0-835d-b4527eb9d0c1)
+![image](https://github.com/user-attachments/assets/0902f9f8-3b38-4fb5-9941-5893f03b78bd)
+
+ioPlacer log: 
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_07-48/logs/floorplan/4-ioPlacer.log
+![image](https://github.com/user-attachments/assets/3ab7443d-b758-4a65-bf48-2578d2290ef0)
+
+Core util taken by tool: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_07-48/config.tcl
+![image](https://github.com/user-attachments/assets/986afeb0-4358-4dc1-8f97-00c1b00600b8)
+
+
+
+
+
+
 
