@@ -138,6 +138,9 @@ Selecting bottom vertical IO pin:
 
 ![image](https://github.com/user-attachments/assets/fcbb6004-b97a-4828-b695-b107a3ff9976)
 
+Proper layer numbers got honoured. VMETAL was given as 4. Here we see met3. met3 is 4th layer.
+![image](https://github.com/user-attachments/assets/54fc0d95-c53f-4915-be8d-2ad492ac5788)
+
 
 
 Running Placement.
