@@ -133,6 +133,15 @@ Selecting bottol vertical IO pin:
 
 
 
+Running Placemnt.
+Command: run_placement
+
+![image](https://github.com/user-attachments/assets/98c36edd-71db-4ad6-b854-c2e9f0d16dde)
+
+![image](https://github.com/user-attachments/assets/9fb79397-3c35-4ad6-94e5-618909b9ec1b)
+
+
+
 
 
 
