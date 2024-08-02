@@ -15,5 +15,6 @@ Step 2: Check config.tcl and sky130A_sky130_fd_sc_hd_config.tcl.
 /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
 /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
 config.tcl has lower priority than sky130... file.
+![image](https://github.com/user-attachments/assets/d59d1d4d-aaa2-4802-8a8a-947e7d72c913)
 
 Step 3: Input the required packages:
