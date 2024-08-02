@@ -23,14 +23,14 @@ config.tcl has lower priority than sky130... file.
 
 Step 3: Input the required packages.
 
-package require openlane 0.9
+Command: package require openlane 0.9
 
 ![image](https://github.com/user-attachments/assets/a628ca5e-a88b-4b79-9cd5-24084170664e)
 
 
 Step 4: Preparing the design we want to synthesize.
 
-prep -design picorv32a
+Command: prep -design picorv32a
 
 ![image](https://github.com/user-attachments/assets/138529ba-06a7-4071-9b9a-c148d228fca3)
 
@@ -39,5 +39,22 @@ prep -design picorv32a
 ![image](https://github.com/user-attachments/assets/b7e15584-fed3-4fb9-8cca-75bfbc89d385)
 
 Step 5: Run synthesis
+
+Command: run_synthesis
+![image](https://github.com/user-attachments/assets/e2132951-5b36-4019-90fa-519b3edff919)
+
+Synthesized netlist:
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_05-29/results/synthesis/picorv32a.synthesis.v
+
+![image](https://github.com/user-attachments/assets/ae996cd8-df3d-4280-8690-aee6b1bae8b7)
+
+Reports: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_05-29/reports/synthesis
+![image](https://github.com/user-attachments/assets/9ae4c6f2-7bd3-4379-9194-4a8b4ccaeed9)
+
+
+Flop Ratio = Number of flops / total number of cells = 1613/14876 = 0.108429
+% Flop = 10.84 %
+
+
 
 
