@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c9f085fb-d2c4-4891-9049-2ee1d4998191)# PD Course
+# PD Course
 Physical Design Course. August 2024
 
 ## Day 1:
@@ -111,6 +111,13 @@ Core util taken by tool: /home/vsduser/Desktop/work/tools/openlane_working_dir/o
 
 DEF file dumped by tool in results directory: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_07-48/results/floorplan/picorv32a.floorplan.def
 ![image](https://github.com/user-attachments/assets/348986de-b4ad-4818-8ab0-cf31a7f82de6)
+
+Area of design after floorplan:
+
+X length = 529275 units = 
+Y length = 539995 units
+
+Area = ()
 
 Using magic tool to view design:
 
