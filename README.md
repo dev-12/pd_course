@@ -60,8 +60,17 @@ Flop Ratio = Number of flops / total number of cells = 1613/14876 = 0.108429
 
 ## Day 2
 #### Theory Notes
+Core - Place where standard cells/instances (fundamental logic) are placed.
+Die - Encapsulates your core.
+![image](https://github.com/user-attachments/assets/6a16e930-1ceb-43df-ac92-80a2a357c859)
 
 Utilization factor = Area Occupied by Netlist / Total Area of Core
+
 Aspect Ratio = Height / Width
+
+Preplaced cells - Place some cells like memory/mux/comparator/clock-gating in iser defined locations before tool automatically places other logic cells. Basically these cells are the ones which are used repeatedly in the design.
+
+Decap cells - Ensures that approx ideal voltage reaches standard cells so that logic is either 1 or 0 and logic is not present in undefined region. Placed near standard instances. This takes care of local communication scenario.
+We create a power grid mesh so that each instance gets approx ideal voltage.
 
 
