@@ -15,7 +15,7 @@ Step 2: Check config.tcl and sky130A_sky130_fd_sc_hd_config.tcl.
 
 /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
 
-/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/sky130A_sky130_fd_sc_hd_config.tcl
 
 config.tcl has lower priority than sky130... file.
 
@@ -73,4 +73,17 @@ Preplaced cells - Place some cells like memory/mux/comparator/clock-gating in is
 Decap cells - Ensures that approx ideal voltage reaches standard cells so that logic is either 1 or 0 and logic is not present in undefined region. Placed near standard instances. This takes care of local communication scenario.
 We create a power grid mesh so that each instance gets approx ideal voltage.
 
+#### Lab
+
+Congigurable parameters available in openlane: 
+/home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/configuration/README.md
+![image](https://github.com/user-attachments/assets/80e7d9cb-07da-49f2-8271-9f97c79a7e39)
+
+Tool defaults in floorplan.tcl: /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/configuration/floorplan.tcl
+
+![image](https://github.com/user-attachments/assets/f67b5f0e-33a3-4602-b28b-913a49f4995f)
+
+This file has lowest priority.
+Next higher priority - /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/config.tcl
+Next higher priority - /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/sky130A_sky130_fd_sc_hd_config.tcl
 
