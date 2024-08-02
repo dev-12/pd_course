@@ -1,4 +1,4 @@
-# PD Course
+![image](https://github.com/user-attachments/assets/c9f085fb-d2c4-4891-9049-2ee1d4998191)# PD Course
 Physical Design Course. August 2024
 
 ## Day 1:
@@ -127,20 +127,27 @@ Hover over signal IO and press "S". Type "what" in console to get details.
 ![image](https://github.com/user-attachments/assets/f65cb501-ac3d-46c4-b100-5223a40fcb39)
 
 
-Selecting bottol vertical IO pin:
+Selecting bottom vertical IO pin:
 
 ![image](https://github.com/user-attachments/assets/fcbb6004-b97a-4828-b695-b107a3ff9976)
 
 
 
-Running Placemnt.
+Running Placement.
 Command: run_placement
 
 ![image](https://github.com/user-attachments/assets/98c36edd-71db-4ad6-b854-c2e9f0d16dde)
 
 ![image](https://github.com/user-attachments/assets/9fb79397-3c35-4ad6-94e5-618909b9ec1b)
 
+New DEF in /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/02-08_07-48/results/placement/picorv32a.placement.def
 
+Open DEF using magic.
+
+Command: magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
+![image](https://github.com/user-attachments/assets/24c531c9-ad1d-4bf6-9b18-9791d95a3147)
+
+PDN is done post placement, CTS in openlane. In general, PDN happens during floorplan. 
 
 
 
