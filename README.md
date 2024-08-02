@@ -22,13 +22,22 @@ config.tcl has lower priority than sky130... file.
 ![image](https://github.com/user-attachments/assets/d59d1d4d-aaa2-4802-8a8a-947e7d72c913)
 
 Step 3: Input the required packages.
+
 package require openlane 0.9
 
 ![image](https://github.com/user-attachments/assets/a628ca5e-a88b-4b79-9cd5-24084170664e)
 
 
 Step 4: Preparing the design we want to synthesize.
+
 prep -design picorv32a
 
 ![image](https://github.com/user-attachments/assets/138529ba-06a7-4071-9b9a-c148d228fca3)
+
+"run" directory created in /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs
+
+![image](https://github.com/user-attachments/assets/b7e15584-fed3-4fb9-8cca-75bfbc89d385)
+
+Step 5: Run synthesis
+
 
