@@ -114,10 +114,10 @@ DEF file dumped by tool in results directory: /home/vsduser/Desktop/work/tools/o
 
 Area of design after floorplan:
 
-X length = 529275 units = 
-Y length = 539995 units
+X length = 529275 units = 529272/1000 microns = 529.272 microns
+Y length = 539995 units = 539995/1000 microns = 539.995 microns
 
-Area = ()
+Area = 529.272 * 539.995 sq. microns = 285804.237 microns
 
 Using magic tool to view design:
 
@@ -161,6 +161,11 @@ Zoomed In:
 
 
 PDN is done post placement, CTS in openlane. In general, PDN happens during floorplan. 
+
+
+
+## Day 3
+
 
 
 
