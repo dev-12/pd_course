@@ -248,4 +248,3 @@ Open inverter layout in magic:
 
 
 
-
