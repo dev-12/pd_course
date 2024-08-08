@@ -216,6 +216,28 @@ Measuring rise and fall delay at 50% point
 
 ![image](https://github.com/user-attachments/assets/7608260d-fd81-4a1f-a6ed-b6167e05c179)
 
+Copy repository link:
+![image](https://github.com/user-attachments/assets/bf3e013e-8af4-4b84-8dc5-abf25400420f)
+
+Add in vnc:
+git clone https://github.com/nickson-jose/vsdstdcelldesign.git
+![image](https://github.com/user-attachments/assets/636385cd-d984-4c5d-8ee2-c6dc259190ba)
+
+Copy tech file:
+
+cp sky130A.tech /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/vsdstdcelldesign
+![image](https://github.com/user-attachments/assets/19e5b41d-5ac0-458a-acba-4aeba2051cd6)
+
+Open inverter layout in magic:
+![image](https://github.com/user-attachments/assets/bfcbe3ad-b88c-4b17-a45f-a430d9009b83)
+
+![image](https://github.com/user-attachments/assets/6de8c17c-8304-4184-923b-ffd4a4f1098a)
+
+
+
+
+
+
 
 
 
