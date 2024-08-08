@@ -167,6 +167,7 @@ PDN is done post placement, CTS in openlane. In general, PDN happens during floo
 ## Day 3
 Changing IO pin placement after run is completed.
 Below command in terminal:
+
 set ::env(FP_IO_MODE) 2
 
 Run floorplan
@@ -174,6 +175,7 @@ Run floorplan
 ![image](https://github.com/user-attachments/assets/59aad206-c730-4b80-b6da-42f2b043443c)
 
 Open def and check IO pin locations:
+
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
 
 Pin locations changed:
@@ -186,8 +188,31 @@ VTC-Spice Simulations
 Circuit:
 ![image](https://github.com/user-attachments/assets/ca1105d5-1279-4e66-ad26-80659307811c)
 
-Transistor drain gate source substrate width length
+Transistor_name drain gate source substrate transistor_name_in_file width length
 ![image](https://github.com/user-attachments/assets/72835ae1-f559-41ee-a028-bfe4e4849a5e)
+
+Final spice deck:
+![image](https://github.com/user-attachments/assets/c16c45ce-3bfa-4ced-9519-0480e392b6cf)
+
+.dc Vin 0 2.5 0.05
+
+DC sweep from 0 to 2.5 in steps of 0.05
+
+Spice waveform after simulation:
+![image](https://github.com/user-attachments/assets/9092c547-aa26-4059-bc93-6889df8b2562)
+
+Increasing width of PMOS and doing simulation:
+![image](https://github.com/user-attachments/assets/5efcc166-8e20-47ed-b733-6d6e707fd7cb)
+
+Vm -> both pmos and nmos in saturation region. High current.
+![image](https://github.com/user-attachments/assets/b12add95-9329-4787-837d-7e4c981b76a1)
+
+
+
+
+
+
+
 
 
 
