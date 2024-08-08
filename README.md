@@ -173,8 +173,11 @@ Run floorplan
 
 ![image](https://github.com/user-attachments/assets/59aad206-c730-4b80-b6da-42f2b043443c)
 
+Open def and check IO pin locations:
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
 
-
+Pin locations changed:
+![image](https://github.com/user-attachments/assets/87b05d52-36ce-45f1-93ba-e8ec5a349223)
 
 
 
