@@ -207,6 +207,14 @@ Increasing width of PMOS and doing simulation:
 Vm -> both pmos and nmos in saturation region. High current.
 ![image](https://github.com/user-attachments/assets/b12add95-9329-4787-837d-7e4c981b76a1)
 
+Transient sim spice deck:
+![image](https://github.com/user-attachments/assets/4a411215-8b5f-4304-834a-321986fe2029)
+
+Transient sim output: 
+Measuring rise and fall delay at 50% point
+![image](https://github.com/user-attachments/assets/33172565-4fe1-4ecb-99e8-a8c3f97e6a40)
+
+![image](https://github.com/user-attachments/assets/7608260d-fd81-4a1f-a6ed-b6167e05c179)
 
 
 
