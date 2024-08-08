@@ -181,8 +181,13 @@ Pin locations changed:
 
 
 
+VTC-Spice Simulations
 
+Circuit:
+![image](https://github.com/user-attachments/assets/ca1105d5-1279-4e66-ad26-80659307811c)
 
+Transistor drain gate source substrate width length
+![image](https://github.com/user-attachments/assets/72835ae1-f559-41ee-a028-bfe4e4849a5e)
 
 
 
