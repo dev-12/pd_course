@@ -165,8 +165,13 @@ PDN is done post placement, CTS in openlane. In general, PDN happens during floo
 
 
 ## Day 3
+Changing IO pin placement after run is completed.
+Below command in terminal:
+set ::env(FP_IO_MODE) 2
 
+Run floorplan
 
+![image](https://github.com/user-attachments/assets/59aad206-c730-4b80-b6da-42f2b043443c)
 
 
 
