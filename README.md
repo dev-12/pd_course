@@ -270,8 +270,12 @@ Open pshort.lib and check pmos name. Here it is pshort_model.0 Do same for nmos.
 ![image](https://github.com/user-attachments/assets/93a5310c-f77e-4329-8bea-3eae201c736e)
 
 Final spice deck after changing names:
-![image](https://github.com/user-attachments/assets/bad69839-3771-42f1-b996-b876ca6bc600)
+![image](https://github.com/user-attachments/assets/2907b097-438e-4042-8233-a925be9fa2b6)
 
+
+Install ngpsice: sudo apt-get install ngspice
+
+Run ngspice: ngspice sky130_inv.spice
 
 
 
