@@ -255,6 +255,7 @@ ext2spice
 Spice file created:
 ![image](https://github.com/user-attachments/assets/cea9d513-96d7-429e-9735-209d4f362d1e)
 
+Name drain gate source substrate
 ![image](https://github.com/user-attachments/assets/23eadba0-7be5-4a47-a3ed-fa9cea7aa3aa)
 
 
