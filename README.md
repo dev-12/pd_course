@@ -276,9 +276,22 @@ Final spice deck after changing names:
 Install ngpsice: sudo apt-get install ngspice
 
 Run ngspice: ngspice sky130_inv.spice
+![image](https://github.com/user-attachments/assets/0060a72e-30b8-4c36-91ea-e1db06af58c5)
 
+Plotting output wrt time:
+![image](https://github.com/user-attachments/assets/485dc476-29b0-44b7-9a3a-add449195ee4)
 
+![image](https://github.com/user-attachments/assets/34be5243-9d3a-4d86-8871-e6bc2f4b9c1e)
 
+Output is not smooth. Increasing load cap for better waveform results.
+![image](https://github.com/user-attachments/assets/a29ad950-e4c1-435e-ae54-9be609143601)
+
+Running again and plotting:
+![image](https://github.com/user-attachments/assets/5374aba0-ebd7-4b04-895e-d5f4f2456eaf)
+
+Rise Transition time : Time taken for output to rise from 20% to 80% value
+Fall Transition time : Time taken for output to fall from 80% to 20% value
+Rise/Fall Cell Delay: TIme difference between input and output when both are at 50%   (Propagation Delay)
 
 
 
