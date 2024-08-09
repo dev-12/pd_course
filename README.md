@@ -321,15 +321,25 @@ Fall Transition:
 
 ![image](https://github.com/user-attachments/assets/4c60f863-a2ac-4566-bfb5-a49f3066d1fb)
 
-Cell rise Delay: Time difference between input and output when output is rising and reached 50%
+Cell Rise Delay: Time difference between input and output when output is rising and reached 50%
 
 ![image](https://github.com/user-attachments/assets/9b684d0c-ed5a-426d-82e7-2762f333b1e8)
 
 ![image](https://github.com/user-attachments/assets/85879d7c-5954-4c65-8ce3-fc5af6e5f2f6)
 
-Rise Delay: 5.721999999999993e-11
+Cell Rise Delay: 5.721999999999993e-11
 
 ![image](https://github.com/user-attachments/assets/22057ab8-f158-4463-820d-1fef428845b6)
+
+
+Cell Fall Delay: Time difference between input and output when output is falling and reached 50%
+
+![image](https://github.com/user-attachments/assets/20024e4c-2ed5-4d99-b0ac-29e113f25861)
+
+![image](https://github.com/user-attachments/assets/b1ac089a-1a0d-4980-b14b-0255195a10fc)
+
+Cell Fall Delay: 2.538999999999964e-11
+![image](https://github.com/user-attachments/assets/079cb2a8-43e7-49cf-a537-accac2e31f76)
 
 
 
