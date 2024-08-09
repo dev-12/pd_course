@@ -234,7 +234,7 @@ Open inverter layout in magic:
 ![image](https://github.com/user-attachments/assets/6de8c17c-8304-4184-923b-ffd4a4f1098a)
 
 
-16-nask CMOS Process:
+16-mask CMOS Process:
 ![image](https://github.com/user-attachments/assets/ff5923b6-1486-4223-ae45-ae572db57d90)
 
 ![image](https://github.com/user-attachments/assets/f17fb6f6-45d2-4d7e-af60-e22735a13290)
@@ -298,6 +298,17 @@ Gate formation:
 ![image](https://github.com/user-attachments/assets/a45c25c9-403e-401e-b924-120aebd99373)
 
 ![image](https://github.com/user-attachments/assets/c04049c9-cda9-4225-a6ea-78579a8faa55)
+
+For PMOS -> Need P+ and P- and N-well  For NMOS - need N+ and N- and P-well
++ -> source & drain
+- -> (LDD) lightly doped drain formation.
+
+Reasons: Hot electron effect:
+![image](https://github.com/user-attachments/assets/da613d6e-fe8c-4e76-89b8-4f97d75956b4)
+
+Short channel effect:
+![image](https://github.com/user-attachments/assets/e4bfe7d8-b774-41bf-b3cb-5acf8637b584)
+
 
 
 
