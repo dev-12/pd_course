@@ -74,6 +74,49 @@ Short channel effect:
 ![image](https://github.com/user-attachments/assets/e4bfe7d8-b774-41bf-b3cb-5acf8637b584)
 
 
+![image](https://github.com/user-attachments/assets/14623976-106a-4b9f-a4a0-f9c10e38e195)
+
+LDD
+![image](https://github.com/user-attachments/assets/eb898fea-3ce4-4446-b747-580860b3aaac)
+
+![image](https://github.com/user-attachments/assets/84a82d5c-2a65-4c80-ab28-18a5df1d1cf6)
+
+![image](https://github.com/user-attachments/assets/66980899-7d98-4a1f-811b-d4db01089fec)
+
+![image](https://github.com/user-attachments/assets/2c7520ba-d6a1-401a-bd11-44ed66fab9c3)
+
+![image](https://github.com/user-attachments/assets/16c1fc95-9ad1-4a58-947d-ec8e1d55679e)
+
+Side wall spaces help to maintain N- implant. Other places, will do N+ implant.
+![image](https://github.com/user-attachments/assets/5718feae-6604-4897-a45f-31186d43c1bc)
+
+![image](https://github.com/user-attachments/assets/f30156ec-a5a7-4680-8c37-31fde005990e)
+
+![image](https://github.com/user-attachments/assets/0b007a9b-e4f6-48c7-b974-61049d80db15)
+
+![image](https://github.com/user-attachments/assets/231790e9-481c-4cbf-aac7-cb286f697c8f)
+
+![image](https://github.com/user-attachments/assets/5487a51f-240d-43e7-8d20-87cc5c6e1ff4)
+
+![image](https://github.com/user-attachments/assets/d32a2a5f-28d6-4b6a-9e44-6f9c0e7f96ca)
+
+![image](https://github.com/user-attachments/assets/83131757-45c2-46c2-8088-87b8bea90c3f)
+
+![image](https://github.com/user-attachments/assets/18667ca4-2c76-4ccf-bbed-381f459dba8b)
+
+![image](https://github.com/user-attachments/assets/fd7637f5-eadf-4dd3-9b88-7a32fc57b283)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
