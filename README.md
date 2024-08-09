@@ -260,6 +260,12 @@ Spice file created:
 Name drain gate source substrate
 ![image](https://github.com/user-attachments/assets/91ea9da9-e9a5-42c8-bce8-06506823eb67)
 
+Include pshort.lib abd nshort.lib present in below directory:
+![image](https://github.com/user-attachments/assets/177af8fc-d2bf-4720-8501-e08ceb39b3f0)
+
+Final spice deck after including files, adding other connections and voltage sources:
+![image](https://github.com/user-attachments/assets/3cacd3fe-1fe8-4daf-be6f-1fa60505b0fe)
+
 
 
 
