@@ -263,10 +263,14 @@ Name drain gate source substrate
 Include pshort.lib abd nshort.lib present in below directory:
 ![image](https://github.com/user-attachments/assets/177af8fc-d2bf-4720-8501-e08ceb39b3f0)
 
-Final spice deck after including files, adding other connections and voltage sources:
+Spice deck after including files, adding other connections and voltage sources:
 ![image](https://github.com/user-attachments/assets/3cacd3fe-1fe8-4daf-be6f-1fa60505b0fe)
 
+Open pshort.lib and check pmos name. Here it is pshort_model.0 Do same for nmos.
+![image](https://github.com/user-attachments/assets/93a5310c-f77e-4329-8bea-3eae201c736e)
 
+Final spice deck after changing names:
+![image](https://github.com/user-attachments/assets/bad69839-3771-42f1-b996-b876ca6bc600)
 
 
 
