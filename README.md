@@ -301,7 +301,8 @@ Rise Transition time:20% of 3.3 = 0.66V.  Zoom in and click. Data will be printe
 ![image](https://github.com/user-attachments/assets/966b1b6f-82fa-488b-82bc-7c16e03ee2b5)
 
 Similarly, do for 80% of 3.3 = 2.64V.
-![image](https://github.com/user-attachments/assets/09ae8a7b-a4ac-46c7-8154-69ef67f65556)
+![image](https://github.com/user-attachments/assets/f025fc3b-e855-4288-9835-056ff774ca63)
+
 
 ![image](https://github.com/user-attachments/assets/0aec50b1-86db-44f9-9c18-26a9ee21088e)
 
