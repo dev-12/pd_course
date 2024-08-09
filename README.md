@@ -290,8 +290,23 @@ Running again and plotting:
 ![image](https://github.com/user-attachments/assets/5374aba0-ebd7-4b04-895e-d5f4f2456eaf)
 
 Rise Transition time : Time taken for output to rise from 20% to 80% value
+
 Fall Transition time : Time taken for output to fall from 80% to 20% value
+
 Rise/Fall Cell Delay: TIme difference between input and output when both are at 50%   (Propagation Delay)
+
+Rise Transition time:20% of 3.3 = 0.66V.  Zoom in and click. Data will be printed in terminal.
+![image](https://github.com/user-attachments/assets/c7035899-adc4-4505-8905-af1b10c972cd)
+
+![image](https://github.com/user-attachments/assets/966b1b6f-82fa-488b-82bc-7c16e03ee2b5)
+
+Similarly, do for 80% of 3.3 = 2.64V.
+![image](https://github.com/user-attachments/assets/09ae8a7b-a4ac-46c7-8154-69ef67f65556)
+
+![image](https://github.com/user-attachments/assets/0aec50b1-86db-44f9-9c18-26a9ee21088e)
+
+
+
 
 
 
