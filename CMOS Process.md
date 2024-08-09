@@ -122,6 +122,14 @@ Steps to form contacts and interconnects (local)
 
 ![image](https://github.com/user-attachments/assets/fb535031-4cde-4e3e-8988-3affc8feba90)
 
+![image](https://github.com/user-attachments/assets/a821ede4-6f9b-42b2-9313-9c64f47b5442)
+
+![image](https://github.com/user-attachments/assets/220312f6-2c9c-42c4-b783-a91cf3714cdc)
+
+![image](https://github.com/user-attachments/assets/4331e7bd-4164-42bc-8dc6-8555f64e092b)
+
+
+
 
 
 
