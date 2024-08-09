@@ -233,8 +233,29 @@ Open inverter layout in magic:
 
 ![image](https://github.com/user-attachments/assets/6de8c17c-8304-4184-923b-ffd4a4f1098a)
 
+16 Mask CMOS Process -> Other file
+
 ![image](https://github.com/user-attachments/assets/10def1d8-5411-4086-babc-23108a24b23a)
 
+Creating spice deck from this layout:
+Checking directory: pwd
+![image](https://github.com/user-attachments/assets/acb2c9e6-76b9-4bc3-86e3-980dd50230de)
+
+Extracting this design: extract all
+
+.ext file created:
+![image](https://github.com/user-attachments/assets/e773df1d-0177-4d58-96a1-279d02c5ddff)
+
+We will use this .ext file to create a spice deck for ngspice.
+
+ext2spice cthresh 0 rthresh 0 -> will extract parasitics data.
+ext2spice
+![image](https://github.com/user-attachments/assets/caccf249-db64-48f8-97aa-9c5756830a5f)
+
+Spice file created:
+![image](https://github.com/user-attachments/assets/cea9d513-96d7-429e-9735-209d4f362d1e)
+
+![image](https://github.com/user-attachments/assets/23eadba0-7be5-4a47-a3ed-fa9cea7aa3aa)
 
 
 
