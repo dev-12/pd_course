@@ -319,7 +319,21 @@ Fall Transition:
 
 4.272e-11
 
-![image](https://github.com/user-attachments/assets/cfa049f1-0ec2-47d5-af31-a15ec8c93b61)
+![image](https://github.com/user-attachments/assets/4c60f863-a2ac-4566-bfb5-a49f3066d1fb)
+
+Cell rise Delay: Time difference between input and output when output is rising and reached 50%
+
+![image](https://github.com/user-attachments/assets/9b684d0c-ed5a-426d-82e7-2762f333b1e8)
+
+![image](https://github.com/user-attachments/assets/85879d7c-5954-4c65-8ce3-fc5af6e5f2f6)
+
+Rise Delay: 5.721999999999993e-11
+
+![image](https://github.com/user-attachments/assets/22057ab8-f158-4463-820d-1fef428845b6)
+
+
+
+
 
 
 
