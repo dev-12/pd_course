@@ -106,6 +106,26 @@ Side wall spaces help to maintain N- implant. Other places, will do N+ implant.
 
 ![image](https://github.com/user-attachments/assets/fd7637f5-eadf-4dd3-9b88-7a32fc57b283)
 
+Steps to form contacts and interconnects (local)
+
+![image](https://github.com/user-attachments/assets/4b35a113-17b2-4df9-8ec4-a6f543fe6a53)
+
+![image](https://github.com/user-attachments/assets/2f8f0e8a-941e-4501-891c-f123fcbe2856)
+
+![image](https://github.com/user-attachments/assets/75c1b435-9468-4b05-999e-4be07732eb9c)
+
+![image](https://github.com/user-attachments/assets/04c81c21-dec0-4864-a1d3-06f4417482a1)
+
+![image](https://github.com/user-attachments/assets/7a3a3da2-ccd0-4269-8b89-33b55901e49f)
+
+![image](https://github.com/user-attachments/assets/462a7ad9-7e5f-4eca-a3b7-cb7b8ec7254c)
+
+![image](https://github.com/user-attachments/assets/fb535031-4cde-4e3e-8988-3affc8feba90)
+
+
+
+
+
 
 
 
