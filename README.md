@@ -343,7 +343,8 @@ Cell Fall Delay: 2.538999999999964e-11
 ![image](https://github.com/user-attachments/assets/079cb2a8-43e7-49cf-a537-accac2e31f76)
 
 
-
+Magic DRC documentation: http://opencircuitdesign.com/magic/
+Skywater documentation: https://skywater-pdk.readthedocs.io/en/main/
 
 
 
