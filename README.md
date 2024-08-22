@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9716aeff-fe18-4023-b9ee-364b3fbfcbb1)# PD Course
+![image](https://github.com/user-attachments/assets/8326acc7-05c4-4690-9492-a40271ef352f)![image](https://github.com/user-attachments/assets/9716aeff-fe18-4023-b9ee-364b3fbfcbb1)# PD Course
 Physical Design Course. August 2024
 
 ## Day 1:
@@ -459,6 +459,7 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 
 ![image](https://github.com/user-attachments/assets/a8003492-cf16-44f8-8ed3-9a4137231e70)
 
+![image](https://github.com/user-attachments/assets/0a8e0a6e-cb04-41a8-a130-db3076b8d7e5)
 
 
 
