@@ -487,7 +487,15 @@ Skew 0 because of symmetric buffers - same load / buffer at each level.
 ![image](https://github.com/user-attachments/assets/6e48234d-41ba-4428-9948-c4b3ab5d20dc)
 
 
+Check opensta report. Violations:
+![image](https://github.com/user-attachments/assets/cca97a8c-43f2-40dc-82ae-30e09ba9b97b)\
 
+![image](https://github.com/user-attachments/assets/935c256e-ca40-4895-92e1-8eb4b380fb81)
+
+Chip area:
+![image](https://github.com/user-attachments/assets/b89712d4-1fb0-4401-9ea3-089566427991)
+
+![image](https://github.com/user-attachments/assets/2c80c7e7-cb2d-462d-9e41-3144b29d0548)
 
 
 
