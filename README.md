@@ -474,6 +474,11 @@ run_synthesis
 
 ![image](https://github.com/user-attachments/assets/9eaec4cc-bfc5-449d-9881-aaa817c2626f)
 
+We have 1554 instances:
+![image](https://github.com/user-attachments/assets/f47d8985-04cf-49a3-99ce-a02040ef7112)
+
+![image](https://github.com/user-attachments/assets/75b15acc-b127-4904-8c53-c7f449356f7a)
+
 
 
 
