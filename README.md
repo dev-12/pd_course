@@ -501,10 +501,31 @@ Chip area:
 
 ![image](https://github.com/user-attachments/assets/2c80c7e7-cb2d-462d-9e41-3144b29d0548)
 
+Command to display current value of variable SYNTH_STRATEGY
 
+echo $::env(SYNTH_STRATEGY)
 
+Command to set new value for SYNTH_STRATEGY
 
+set ::env(SYNTH_STRATEGY) "DELAY 3"
 
+Above startegy basically is trade-off between area and delay. Will fix delay but increase area.
+
+Command to display current value of variable SYNTH_BUFFERING to check whether it's enabled
+
+echo $::env(SYNTH_BUFFERING)
+
+reduces wire delay by inserting buffers.
+
+Command to display current value of variable SYNTH_SIZING -> echo $::env(SYNTH_SIZING)
+
+Basically whether cell upsizing and downsizing is enabled or not.
+
+Command to set new value for SYNTH_SIZING -> set ::env(SYNTH_SIZING) 1
+
+Command to display current value of variable SYNTH_DRIVING_CELL to check whether it's the proper cell or not -> echo $::env(SYNTH_DRIVING_CELL)
+
+Now that the design is prepped and ready, we can run synthesis using following command -> run_synthesis
 
 
 
