@@ -585,6 +585,16 @@ Reports:
 
 Running floorplan -> run_floorplan
 
+Floorplan failed:
+
+![image](https://github.com/user-attachments/assets/693a7613-b7bf-4e7a-93a4-a744fafdbc20)
+
+Since there are no macros in this design, we can essentially skip macro step.
+
+Instead of running run_floorplan cmd, we can break the cmd wrapper to its atomic cmds, which as per floorplan.tcl is as below:
+
+
+
 
 
 
