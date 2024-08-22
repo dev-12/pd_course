@@ -441,6 +441,10 @@ cp sky130_vsdinv.lef /home/vsduser/Desktop/work/tools/openlane_working_dir/openl
 Our cell is defined in lib file: 
 ![image](https://github.com/user-attachments/assets/e0cfa181-58d7-4d01-8d94-5b12af421e22)
 
+slow fast typical - all three will be used during STA. Copying:
+![image](https://github.com/user-attachments/assets/33c1c88c-70c2-40fe-9b0d-66a3923c62a8)
+
+
 
 
 
