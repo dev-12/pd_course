@@ -529,6 +529,11 @@ Now that the design is prepped and ready, we can run synthesis using following c
 
 ![image](https://github.com/user-attachments/assets/3ea7a612-ea82-43eb-81c1-86817dee9925)
 
+Synthesis failed:
+![image](https://github.com/user-attachments/assets/074c421a-3287-4d07-af48-7fa5a1f52fa9)
+
+Overwrite and redo. Following commands:
+
 
 
 
