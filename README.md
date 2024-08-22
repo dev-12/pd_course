@@ -1,4 +1,4 @@
-# PD Course
+![image](https://github.com/user-attachments/assets/9716aeff-fe18-4023-b9ee-364b3fbfcbb1)# PD Course
 Physical Design Course. August 2024
 
 ## Day 1:
@@ -383,7 +383,16 @@ Run DRC again. drc check
 
 
 
-### Day 4
+## Day 4
+
+Extracting LEF from .mag file.
+
+![image](https://github.com/user-attachments/assets/23e925c0-c5d2-43fd-8c65-99a451a07df1)
+
+![image](https://github.com/user-attachments/assets/69dfa0cc-068a-41a2-9f1f-bf542eab7a85)
+
+
+![image](https://github.com/user-attachments/assets/285d6a61-8446-436e-9865-ce78078c8990)
 
 
 
