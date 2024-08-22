@@ -527,6 +527,7 @@ Command to display current value of variable SYNTH_DRIVING_CELL to check whether
 
 Now that the design is prepped and ready, we can run synthesis using following command -> run_synthesis
 
+![image](https://github.com/user-attachments/assets/3ea7a612-ea82-43eb-81c1-86817dee9925)
 
 
 
