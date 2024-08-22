@@ -413,10 +413,24 @@ width of std cell must be odd multiple of x-pitch. Similar for height.
 Labels to ports:
 
 select the layer where we want to define port -> Edit -> Text
+![image](https://github.com/user-attachments/assets/17bd5650-bac2-4e81-bc91-24d5b9ddb3af)
 
-![image](https://github.com/user-attachments/assets/f8d363c9-dd54-4957-977f-c494c9b829da)
 
 https://github.com/nickson-jose/vsdstdcelldesign
+
+![image](https://github.com/user-attachments/assets/e0ebcf26-7fda-4c28-8436-24e2d11fb851)
+
+![image](https://github.com/user-attachments/assets/ece5d893-4b24-46b5-9452-0a19f37682c7)
+
+![image](https://github.com/user-attachments/assets/6590e851-57ad-46ef-a022-4b3ff42a6bc8)
+
+![image](https://github.com/user-attachments/assets/41673b34-4f69-4e48-be24-733fb02d366c)
+
+![image](https://github.com/user-attachments/assets/6b6a1850-e9ec-48a5-a091-88910d630ae3)
+
+
+
+
 
 
 
