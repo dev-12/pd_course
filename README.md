@@ -457,6 +457,8 @@ set ::env(LIB_TYPICAL) "$::env(OPENLANE_ROOT)/designs/picorv32a/src/sky130_fd_sc
 
 set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/src/*.lef]
 
+![image](https://github.com/user-attachments/assets/a8003492-cf16-44f8-8ed3-9a4137231e70)
+
 
 
 
