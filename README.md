@@ -572,11 +572,18 @@ run_synthesis
 ![image](https://github.com/user-attachments/assets/6a7eb696-9d57-42ac-9b0a-0d0c635b5d6b)
 
 Chip area increased.
+
 ![image](https://github.com/user-attachments/assets/1d68e28e-74c9-4719-bd56-c7fe3cbaf415)
 
 ![image](https://github.com/user-attachments/assets/2ff504fa-7c1d-4bd9-97f4-cf4253f835ea)
 
+Reports:
 
+![image](https://github.com/user-attachments/assets/049ee580-883f-49b1-9916-c9842b70e20f)
+
+![image](https://github.com/user-attachments/assets/e9aff8c6-1765-4cc7-a207-195f7becec9b)
+
+Running floorplan -> run_floorplan
 
 
 
