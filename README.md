@@ -594,8 +594,32 @@ Since there are no macros in this design, we can essentially skip macro step.
 Instead of running run_floorplan cmd, we can break the cmd wrapper to its atomic cmds, which as per floorplan.tcl is as below:
 
 init_floorplan
+
 place_io
+
+global_placement_or
+
 tap_decap_or
+
+
+![image](https://github.com/user-attachments/assets/62584871-8c47-4b25-a6c1-fc14fa4a7764)
+
+![image](https://github.com/user-attachments/assets/7f6ee5eb-01bd-4809-a6ed-33ab7f13de45)
+
+![image](https://github.com/user-attachments/assets/c4c0a127-52eb-4b22-9f45-05fa3defb914)
+
+![image](https://github.com/user-attachments/assets/6da0d496-b53e-4694-bcb3-09783628c2de)
+
+![image](https://github.com/user-attachments/assets/b628453b-4986-4f91-a7d6-aa779c3299af)
+
+
+Doing placement: run_placement
+
+![image](https://github.com/user-attachments/assets/36a98126-bcb9-4760-9e4f-a24db46bcf78)
+
+![image](https://github.com/user-attachments/assets/e5d96df0-4310-4ff0-8cc8-7b0cc8b0493d)
+
+
 
 
 
