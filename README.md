@@ -534,7 +534,37 @@ Synthesis failed:
 
 Overwrite and redo. Following commands:
 
+prep -design picorv32a -tag 24-03_10-03 -overwrite
 
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+
+add_lefs -src $lefs
+
+Command to display current value of variable SYNTH_STRATEGY
+
+echo $::env(SYNTH_STRATEGY)
+
+set ::env(SYNTH_STRATEGY) "DELAY 3"
+
+Command to display current value of variable SYNTH_BUFFERING to check whether it's enabled
+
+echo $::env(SYNTH_BUFFERING)
+
+Command to display current value of variable SYNTH_SIZING
+
+echo $::env(SYNTH_SIZING)
+
+Command to set new value for SYNTH_SIZING
+
+set ::env(SYNTH_SIZING) 1
+
+Command to display current value of variable SYNTH_DRIVING_CELL to check whether it's the proper cell or not
+
+echo $::env(SYNTH_DRIVING_CELL)
+
+Now that the design is prepped and ready, we can run synthesis using following command
+
+run_synthesis
 
 
 
