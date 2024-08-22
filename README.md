@@ -462,7 +462,12 @@ set ::env(EXTRA_LEFS) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/sr
 ![image](https://github.com/user-attachments/assets/0a8e0a6e-cb04-41a8-a130-db3076b8d7e5)
 
 
+Adiitional commands to include newly added lef to openlane flow
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+add_lefs -src $lefs
 
+Now that the design is prepped and ready, we can run synthesis using following command
+run_synthesis
 
 
 
