@@ -362,6 +362,8 @@ Open met3.mag
 Load poly.mag
 ![image](https://github.com/user-attachments/assets/9edf36f3-8f2a-4979-a00b-e92d4c462254)
 
+Rule: 
+![image](https://github.com/user-attachments/assets/3f18ba6a-4510-41a7-87b2-98f9b17c7326)
 
 
 
