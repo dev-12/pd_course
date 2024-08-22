@@ -365,6 +365,26 @@ Load poly.mag
 Rule: 
 ![image](https://github.com/user-attachments/assets/3f18ba6a-4510-41a7-87b2-98f9b17c7326)
 
+Open tech file:
+![image](https://github.com/user-attachments/assets/5d1aa5fe-d32e-4af6-8b3f-2fbeddd7d12a)
+
+![image](https://github.com/user-attachments/assets/d8d5836b-96d7-405a-856e-80ab1eda2309)
+
+No rule defined between poly resistor to poly. Adding rule:
+![image](https://github.com/user-attachments/assets/3eade8c9-2e8a-4b9b-aad5-abe29cf99a22)
+
+![image](https://github.com/user-attachments/assets/f40ad94c-39da-4731-96d8-265e42076564)
+
+Load updated tech from console: tech load sky130A.tech
+
+Run DRC again. drc check
+![image](https://github.com/user-attachments/assets/ae0453c0-ff7e-4392-b371-248bf72957a7)
+
+
+
+
+### Day 4
+
 
 
 
