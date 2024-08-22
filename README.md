@@ -567,8 +567,14 @@ Now that the design is prepped and ready, we can run synthesis using following c
 run_synthesis
 
 
+![image](https://github.com/user-attachments/assets/6cd17d72-65ef-44e4-baa4-ad4be14b7af1)
 
+![image](https://github.com/user-attachments/assets/6a7eb696-9d57-42ac-9b0a-0d0c635b5d6b)
 
+Chip area increased.
+![image](https://github.com/user-attachments/assets/1d68e28e-74c9-4719-bd56-c7fe3cbaf415)
+
+![image](https://github.com/user-attachments/assets/2ff504fa-7c1d-4bd9-97f4-cf4253f835ea)
 
 
 
