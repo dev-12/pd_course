@@ -349,8 +349,18 @@ Skywater documentation: https://skywater-pdk.readthedocs.io/en/main/
 
 DRC rules: http://opencircuitdesign.com/magic/techref/maint2.html#drc
 
+Download DRC tests:
+![image](https://github.com/user-attachments/assets/c2376781-f8a2-4246-a0fa-5743e161600e)
 
+Open Magic: magic -d XR
 
+Open met3.mag
+![image](https://github.com/user-attachments/assets/b7972ac2-f9af-4959-820a-50436dc0115e)
+
+![image](https://github.com/user-attachments/assets/28835184-fb40-4537-bcda-9074f795afa4)
+
+Load poly.mag
+![image](https://github.com/user-attachments/assets/9edf36f3-8f2a-4979-a00b-e92d4c462254)
 
 
 
