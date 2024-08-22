@@ -619,7 +619,18 @@ Doing placement: run_placement
 
 ![image](https://github.com/user-attachments/assets/e5d96df0-4310-4ff0-8cc8-7b0cc8b0493d)
 
+Custom cell present in merged.lef
 
+![image](https://github.com/user-attachments/assets/60e45d8b-7e7a-4f52-94fc-79f7c0400867)
+
+Open design: magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
+
+![image](https://github.com/user-attachments/assets/77f4068d-3da4-470b-a7ee-77d18f62e92b)
+
+Our cell:
+![image](https://github.com/user-attachments/assets/cfc98dee-c24d-4e2e-b35c-971ad018cca0)
+
+![image](https://github.com/user-attachments/assets/3af2cbcc-5ac4-40cc-8e67-13854a626e9a)
 
 
 
