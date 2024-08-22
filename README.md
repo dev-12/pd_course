@@ -432,6 +432,14 @@ https://github.com/nickson-jose/vsdstdcelldesign
 
 LEF file is ready now.
 
+Copy lef file into src.
+
+cp sky130_vsdinv.lef /home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/src
+
+![image](https://github.com/user-attachments/assets/2e582dcc-32ba-4e85-8393-9015c692a15e)
+
+Our cell is defined in lib file: 
+![image](https://github.com/user-attachments/assets/e0cfa181-58d7-4d01-8d94-5b12af421e22)
 
 
 
