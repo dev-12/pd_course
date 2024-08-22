@@ -391,6 +391,8 @@ Extracting LEF from .mag file.
 
 ![image](https://github.com/user-attachments/assets/69dfa0cc-068a-41a2-9f1f-bf542eab7a85)
 
+Lab steps to convert grid info to track info:
+
 Track can be defined as a line on which metal layers are drawn. A track means one M1 Pitch. Height of Standard cell is generally measured in term of no. of tracks inside it. like a 6T standard cell means that the height of the standard cell is 6 Track of M1.
 ![image](https://github.com/user-attachments/assets/285d6a61-8446-436e-9865-ce78078c8990)
 
