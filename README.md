@@ -406,6 +406,18 @@ Before:
 After grid change:
 ![image](https://github.com/user-attachments/assets/43121cf8-dd4f-4af7-a14f-1da4b0eea1b3)
 
+Convert magic layouy to std cell LEF:
+
+width of std cell must be odd multiple of x-pitch. Similar for height.
+
+Labels to ports:
+
+select the layer where we want to define port -> Edit -> Text
+
+![image](https://github.com/user-attachments/assets/f8d363c9-dd54-4957-977f-c494c9b829da)
+
+
+
 
 
 
