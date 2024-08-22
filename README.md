@@ -428,6 +428,9 @@ https://github.com/nickson-jose/vsdstdcelldesign
 
 ![image](https://github.com/user-attachments/assets/6b6a1850-e9ec-48a5-a091-88910d630ae3)
 
+![image](https://github.com/user-attachments/assets/47cbe962-7164-4d73-9a37-fd4562f03b80)
+
+LEF file is ready now.
 
 
 
