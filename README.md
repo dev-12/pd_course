@@ -480,6 +480,16 @@ We have 1554 instances:
 ![image](https://github.com/user-attachments/assets/75b15acc-b127-4904-8c53-c7f449356f7a)
 
 
+Delay Tables
+![image](https://github.com/user-attachments/assets/5b555be8-cd06-480c-b780-6b44ef03edd2)
+
+Skew 0 because of symmetric buffers - same load / buffer at each level.
+![image](https://github.com/user-attachments/assets/6e48234d-41ba-4428-9948-c4b3ab5d20dc)
+
+
+
+
+
 
 
 
