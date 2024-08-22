@@ -593,7 +593,9 @@ Since there are no macros in this design, we can essentially skip macro step.
 
 Instead of running run_floorplan cmd, we can break the cmd wrapper to its atomic cmds, which as per floorplan.tcl is as below:
 
-
+init_floorplan
+place_io
+tap_decap_or
 
 
 
