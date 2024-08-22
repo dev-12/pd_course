@@ -488,7 +488,11 @@ Skew 0 because of symmetric buffers - same load / buffer at each level.
 
 
 Check opensta report. Violations:
+
+tns is the total negative slack and wns is the worst negative slack.
+ 
 ![image](https://github.com/user-attachments/assets/cca97a8c-43f2-40dc-82ae-30e09ba9b97b)\
+
 
 ![image](https://github.com/user-attachments/assets/935c256e-ca40-4895-92e1-8eb4b380fb81)
 
