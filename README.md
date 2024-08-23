@@ -683,6 +683,8 @@ Delay reduced:
 
 ![image](https://github.com/user-attachments/assets/ec46b01b-77e7-428e-9034-0038f938defa)
 
+![image](https://github.com/user-attachments/assets/ce5208d3-3da5-458d-a564-20bb6b299a5f)
+
 
 #### Day 4 SK3 CTS
 
@@ -709,6 +711,11 @@ Clock Net Shielding:
 
 How to shield? -> Place a VDD and VSS wire parallel to signal wire.
 
+#### Lab to run CTS using TritonCTS
+
+![image](https://github.com/user-attachments/assets/49e36d4a-6790-494b-9495-692a7a20dc17)
+
+![image](https://github.com/user-attachments/assets/e280b61d-e70a-4074-8a40-5e6bb8438a06)
 
 
 
