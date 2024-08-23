@@ -829,9 +829,15 @@ Slack slightly improved at cost of area
 
 ### Day 5 SK2 Power Distribution Network and Routing
 
+To use old session: prep -design picorv32a -tag 22-08_12-05
+![image](https://github.com/user-attachments/assets/3f202e26-49e7-4135-b61a-adeb500cd8f4)
 
 
+![image](https://github.com/user-attachments/assets/5e50a363-2248-47e9-a465-ff53c3e31e44)
 
+![image](https://github.com/user-attachments/assets/f80dafbf-0056-4158-a42b-d55e516194a4)
+
+![image](https://github.com/user-attachments/assets/b6c6635d-1be6-4ae6-92cc-8a7dd194b2f7)
 
 
 
