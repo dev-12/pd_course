@@ -742,6 +742,25 @@ Max tran is 10% of clock period. Max cap is max cap of output pin of clock root 
 
 ![image](https://github.com/user-attachments/assets/4148df76-bbad-457b-a6b8-ba5740a911ce)
 
+#### Day 4 SK4
+
+![image](https://github.com/user-attachments/assets/cfb3cda0-7ef7-4b2e-ae21-2726deed52c0)
+
+![image](https://github.com/user-attachments/assets/e95fe5c8-495d-4bb1-a99d-f34e9b5a718b)
+
+![image](https://github.com/user-attachments/assets/e4fd80e7-b6a8-41d9-adb7-759cd20ae34a)
+
+![image](https://github.com/user-attachments/assets/e9ea3a34-f03f-4de1-85fa-fabaf2965c90)
+
+![image](https://github.com/user-attachments/assets/0c66dda1-5090-4bf9-8c21-b366330d07a9)
+
+
+
+
+
+
+
+
 
 
 
