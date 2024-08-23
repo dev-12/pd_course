@@ -843,8 +843,13 @@ To use old session: prep -design picorv32a -tag 22-08_12-05
 
 ![image](https://github.com/user-attachments/assets/d353a747-634c-4059-939e-ae3438980b1b)
 
+![image](https://github.com/user-attachments/assets/3909abc0-6870-4e2c-ad34-a665bba5ce19)
 
 
+Routing remaining: run_routing
+![image](https://github.com/user-attachments/assets/24625d0f-3571-4f50-9735-88aa868fec80)
+
+![image](https://github.com/user-attachments/assets/625a87f7-121d-4085-a7ac-9b72c3706203)
 
 
 
