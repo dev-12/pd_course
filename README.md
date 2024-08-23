@@ -841,9 +841,8 @@ To use old session: prep -design picorv32a -tag 22-08_12-05
 
 ![image](https://github.com/user-attachments/assets/e1df698a-5ba1-4c2c-92ed-39d3882d06e4)
 
-![image](https://github.com/user-attachments/assets/22513524-3f9b-48b3-9687-20bad46c3df5)
+![image](https://github.com/user-attachments/assets/d353a747-634c-4059-939e-ae3438980b1b)
 
-![image](https://github.com/user-attachments/assets/8f020445-9f05-434a-bdac-b1e1d731c5f2)
 
 
 
