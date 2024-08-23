@@ -656,6 +656,7 @@ Hold analysis is overly optimistic here. It would be important after CTS.
 Steps to reduce setup slack violation: 
 
 Lets upsize this buffer:
+
 ![image](https://github.com/user-attachments/assets/85e40413-09fa-455e-abeb-8aca69a2fb33)
 
 ![image](https://github.com/user-attachments/assets/d584ad5d-c019-4bb5-a702-b2014b5eba7c)
@@ -680,6 +681,7 @@ Delay reduced:
 
 ![image](https://github.com/user-attachments/assets/474ff591-d113-43b3-ab56-aabfe670434c)
 
+![image](https://github.com/user-attachments/assets/bddeb1ab-45d1-4261-b44d-25c0b19e1bce)
 
 
 
