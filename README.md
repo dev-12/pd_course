@@ -731,6 +731,9 @@ All commands:
 
 ![image](https://github.com/user-attachments/assets/f7eb9a88-8e36-490b-9582-829464de6c75)
 
+![image](https://github.com/user-attachments/assets/9f116fc2-e63d-4c10-9929-4c39e5be2229)
+
+Next stage is power generation and routing in which above cts def will be used.
 
 
 
