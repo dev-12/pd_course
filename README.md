@@ -713,10 +713,21 @@ How to shield? -> Place a VDD and VSS wire parallel to signal wire.
 
 #### Lab to run CTS using TritonCTS
 
-![image](https://github.com/user-attachments/assets/49e36d4a-6790-494b-9495-692a7a20dc17)
+![image](https://github.com/user-attachments/assets/abdd7338-cd0e-4d3d-8626-383269eedeb8)
 
 ![image](https://github.com/user-attachments/assets/e280b61d-e70a-4074-8a40-5e6bb8438a06)
 
+![image](https://github.com/user-attachments/assets/04232dfc-f167-4613-ac5d-3327067cae89)
+
+New verilog file created with CTS done - clock path & buffers:
+![image](https://github.com/user-attachments/assets/f8cb128c-0546-49d5-9252-ab122e7eccc8)
+
+All commands:
+![image](https://github.com/user-attachments/assets/eccaa474-7f3c-43fa-90a6-bf1f03d9c6e0)
+
+![image](https://github.com/user-attachments/assets/3319b5fc-ef53-49ee-a237-a6b2e163fe59)
+
+![image](https://github.com/user-attachments/assets/7a3d6d28-4461-4b20-95d8-b8e44365d837)
 
 
 
