@@ -1,0 +1,35 @@
+before: 
+
+Chip area for module '\picorv32a': 147712.918400
+
+tns -711.59
+wns -23.89
+
+After:
+Chip area for module '\picorv32a': 181730.544000
+
+
+tns 0.00
+wns 0.00
+
+
+22-08_11-29
+
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+
+add_lefs -src $lefs
+
+echo $::env(SYNTH_STRATEGY)
+
+set ::env(SYNTH_STRATEGY) "DELAY 3"
+
+
+echo $::env(SYNTH_BUFFERING)
+
+echo $::env(SYNTH_SIZING)
+
+set ::env(SYNTH_SIZING) 1
+
+echo $::env(SYNTH_DRIVING_CELL)
+
+run_synthesis

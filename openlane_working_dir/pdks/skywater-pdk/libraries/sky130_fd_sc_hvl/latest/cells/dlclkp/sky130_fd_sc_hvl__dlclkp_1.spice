@@ -1,0 +1,39 @@
+* Copyright 2020 The SkyWater PDK Authors
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     https://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+* SPDX-License-Identifier: Apache-2.0
+
+
+.subckt sky130_fd_sc_hvl__dlclkp_1 CLK GATE VGND VNB VPB VPWR GCLK
+X0 a_303_311# a_239_419# a_1027_159# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X1 a_189_159# a_231_71# a_303_311# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X2 VGND a_1438_171# GCLK VNB sky130_fd_pr__nfet_g5v0d10v5 w=750000u l=500000u
+X3 VGND GATE a_189_159# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X4 VGND a_303_311# a_1069_133# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X5 a_189_445# a_239_419# a_303_311# VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X6 VPWR GATE a_189_445# VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X7 a_239_419# a_231_71# VPWR VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X8 VPWR a_1438_171# GCLK VPB sky130_fd_pr__pfet_g5v0d10v5 w=1.5e+06u l=500000u
+X9 a_1438_171# CLK VPWR VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X10 a_239_419# a_231_71# VGND VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X11 a_1027_457# a_1069_133# VPWR VPB sky130_fd_pr__pfet_g5v0d10v5 w=420000u l=500000u
+X12 a_1591_171# CLK VGND VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X13 VPWR a_1069_133# a_1438_171# VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X14 VPWR CLK a_231_71# VPB sky130_fd_pr__pfet_g5v0d10v5 w=750000u l=500000u
+X15 a_303_311# a_231_71# a_1027_457# VPB sky130_fd_pr__pfet_g5v0d10v5 w=420000u l=500000u
+X16 VPWR a_303_311# a_1069_133# VPB sky130_fd_pr__pfet_g5v0d10v5 w=420000u l=500000u
+X17 VGND CLK a_231_71# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X18 a_1438_171# a_1069_133# a_1591_171# VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+X19 a_1027_159# a_1069_133# VGND VNB sky130_fd_pr__nfet_g5v0d10v5 w=420000u l=500000u
+.ends

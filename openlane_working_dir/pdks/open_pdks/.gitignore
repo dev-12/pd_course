@@ -1,0 +1,21 @@
+*.swp
+*.vvp
+*.vcd
+*.raw
+__pycache__
+**/.DS_Store
+**/.Trashes/
+
+# script artifacts
+*_install.log
+*_migrate.log
+
+# autotools artifacts
+**/Makefile
+**/Makefile.am
+
+# exceptions for travisCI
+!.travisCI/Makefile
+
+# local install cache
+/sources
