@@ -860,6 +860,18 @@ Routing remaining: run_routing
 
 ![image](https://github.com/user-attachments/assets/552a52f0-0d68-4c71-9628-7dfc6ddc949b)
 
+Triton Routing Theory
+
+![image](https://github.com/user-attachments/assets/51e3526f-a3ca-4bf3-bbe3-67ec63435b7a)
+
+![image](https://github.com/user-attachments/assets/cf02b4b2-decd-48d3-ab37-7e2da3e246fc)
+
+![image](https://github.com/user-attachments/assets/2dd4ee81-2a0e-4e20-8121-fd8237553f2b)
+
+![image](https://github.com/user-attachments/assets/6aff279d-8356-4f28-bfd1-c3f7daae7c02)
+
+
+
 
 
 
