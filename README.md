@@ -779,8 +779,15 @@ write_db
 
 ![image](https://github.com/user-attachments/assets/6c45fda4-ba5a-495a-8e40-01393b6fc910)
 
+##### Exploring Post CTS analysis by removing clkbuf_1 from clock buffer list variable
 
+![image](https://github.com/user-attachments/assets/07e7ff56-f443-408b-be75-a245b541cc6f)
 
+Tool always picks buffers left to right as buf 2 is greater in area than buf 1
+
+![image](https://github.com/user-attachments/assets/0c13e69a-c883-470f-9879-779dac761085)
+
+![image](https://github.com/user-attachments/assets/41483af2-f291-4ae8-8ff3-9ec96a7c6603)
 
 
 
