@@ -855,7 +855,6 @@ Opening DEF:
 
 
 Routing remaining: run_routing
-![image](https://github.com/user-attachments/assets/d06e8cf7-26a9-42cb-9106-8aeb4f9b4625)
 
 ![image](https://github.com/user-attachments/assets/625a87f7-121d-4085-a7ac-9b72c3706203)
 
