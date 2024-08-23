@@ -789,9 +789,16 @@ Tool always picks buffers left to right as buf 2 is greater in area than buf 1
 
 ![image](https://github.com/user-attachments/assets/41483af2-f291-4ae8-8ff3-9ec96a7c6603)
 
+![image](https://github.com/user-attachments/assets/1f4a8245-07f5-410f-b4e5-37160533b60d)
 
+![image](https://github.com/user-attachments/assets/5e2dc38f-d9f4-4067-8aa7-e8a72767464e)
 
+![image](https://github.com/user-attachments/assets/5e6f0be3-5d8a-43ca-9330-9d970a467dd8)
 
+![image](https://github.com/user-attachments/assets/5258e20d-997e-48bb-9c84-a6d2e2c96fea)
+
+Slack slightly improved at cost of area
+![image](https://github.com/user-attachments/assets/908df231-11f8-4087-a670-18f3359d6d3b)
 
 
 
