@@ -674,7 +674,7 @@ It is giving another path. Running below command to check sta for previous path:
 
 Slack is met:
 
-![image](https://github.com/user-attachments/assets/87c790dd-4fa0-4676-85e7-0aa1331cf61d)
+![image](https://github.com/user-attachments/assets/b991d73b-9b3f-4f48-aa24-7c86e8573c6b)
 
 Delay reduced:
 
