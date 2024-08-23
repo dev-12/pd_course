@@ -845,12 +845,21 @@ To use old session: prep -design picorv32a -tag 22-08_12-05
 
 ![image](https://github.com/user-attachments/assets/3909abc0-6870-4e2c-ad34-a665bba5ce19)
 
+Opening DEF:
+![image](https://github.com/user-attachments/assets/0a6e704c-bdb5-4bb2-946f-daac2cb36e6e)
+
+![image](https://github.com/user-attachments/assets/d31d1ccf-fbe8-4f3a-8072-89ab24dca943)
+
+![image](https://github.com/user-attachments/assets/50fa7c0a-4d53-475f-8d27-e1a1ffc37844)
+
+
 
 Routing remaining: run_routing
-![image](https://github.com/user-attachments/assets/24625d0f-3571-4f50-9735-88aa868fec80)
+![image](https://github.com/user-attachments/assets/d06e8cf7-26a9-42cb-9106-8aeb4f9b4625)
 
 ![image](https://github.com/user-attachments/assets/625a87f7-121d-4085-a7ac-9b72c3706203)
 
+![image](https://github.com/user-attachments/assets/552a52f0-0d68-4c71-9628-7dfc6ddc949b)
 
 
 
