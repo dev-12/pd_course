@@ -805,6 +805,42 @@ Slack slightly improved at cost of area
 ![image](https://github.com/user-attachments/assets/9d76eb70-0f6e-4de5-af1c-ba595fca084a)
 
 
+## Day 5
+
+### Day 5 SK1 Routing and DRC
+
+![image](https://github.com/user-attachments/assets/116d2a9b-b3dc-4011-baff-e2f82e34ea16)
+
+![image](https://github.com/user-attachments/assets/d50366ac-ce95-46fa-8804-31340e8c74d9)
+
+![image](https://github.com/user-attachments/assets/d0c502c6-bdc8-480d-81be-13cfee0cdf0c)
+
+![image](https://github.com/user-attachments/assets/3257e972-ebad-44b3-84fe-805b1f8538f5)
+
+![image](https://github.com/user-attachments/assets/6e6fe245-2d80-4327-a3bf-3de3143f7d15)
+
+![image](https://github.com/user-attachments/assets/ef441e0a-cc9f-4c23-a267-30a7bc7cb8c2)
+
+![image](https://github.com/user-attachments/assets/4325202b-217f-453c-9a9a-cf6c34264449)
+
+![image](https://github.com/user-attachments/assets/4b7bce4f-7075-4a3e-afea-033e46a3abd8)
+
+![image](https://github.com/user-attachments/assets/9527a6c4-4802-4536-b917-a148c97029d7)
+
+### Day 5 SK2 Power Distribution Network and Routing
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
