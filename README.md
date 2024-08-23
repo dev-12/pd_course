@@ -645,6 +645,31 @@ Setup timing Analysis:
 ![image](https://github.com/user-attachments/assets/41e14450-ab39-4dc3-8d28-bd1c57a111be)
 
 
+Copied and prepared the pre_sta.conf file:
+![image](https://github.com/user-attachments/assets/5a57c849-4b85-4ef0-9d6d-1e542f974e6d)
+
+![image](https://github.com/user-attachments/assets/441c6929-721d-4d22-b57c-fce37244cdac)
+
+![image](https://github.com/user-attachments/assets/3d928bc3-157a-43e3-8ed3-9e6e88bdfb09)
+
+Hold analysis is overly optimistic here. It would be important after CTS.
+Steps to reduce setup slack violation: 
+
+Lets upsize this buffer:
+![image](https://github.com/user-attachments/assets/85e40413-09fa-455e-abeb-8aca69a2fb33)
+
+![image](https://github.com/user-attachments/assets/d584ad5d-c019-4bb5-a702-b2014b5eba7c)
+
+![image](https://github.com/user-attachments/assets/6d3a0c06-1fc9-42d7-9bcb-ad750c15468b)
+
+Checking:
+
+![image](https://github.com/user-attachments/assets/9380b731-3edf-4a96-845b-dcbdbf797c2d)
+
+![image](https://github.com/user-attachments/assets/66688f12-add3-4006-9ac7-3838a8ee72b9)
+
+
+
 
 
 
