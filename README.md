@@ -645,7 +645,7 @@ Setup timing Analysis:
 ![image](https://github.com/user-attachments/assets/41e14450-ab39-4dc3-8d28-bd1c57a111be)
 
 
-Copied and prepared the pre_sta.conf file:
+Copied and prepared the pre_sta.conf file:  (Doing for verilog file in synthesis directory as in our openlane gave zero tns & wns)
 ![image](https://github.com/user-attachments/assets/5a57c849-4b85-4ef0-9d6d-1e542f974e6d)
 
 ![image](https://github.com/user-attachments/assets/441c6929-721d-4d22-b57c-fce37244cdac)
@@ -682,6 +682,36 @@ Delay reduced:
 ![image](https://github.com/user-attachments/assets/474ff591-d113-43b3-ab56-aabfe670434c)
 
 ![image](https://github.com/user-attachments/assets/ec46b01b-77e7-428e-9034-0038f938defa)
+
+
+#### Day 4 SK3 CTS
+
+![image](https://github.com/user-attachments/assets/6479bb51-6da2-4233-a807-c1b34d5354b8)
+
+H Tree - take mid point and distribute:
+![image](https://github.com/user-attachments/assets/17a053be-d48b-4760-b03c-84dea1c4f7fb)
+
+![image](https://github.com/user-attachments/assets/abf6b909-b233-4060-8b32-3288e016e2a5)
+
+Add buffers (repeaters)
+
+Repeaters in clock path vs data path -> clock path buffer has equal rise and fall time.
+
+![image](https://github.com/user-attachments/assets/9bc4e72b-f929-465e-89a3-652595ee1eae)
+
+Clock Net Shielding:
+
+![image](https://github.com/user-attachments/assets/891ce201-5dee-4345-92e0-5ac1d41a3ef7)
+
+![image](https://github.com/user-attachments/assets/28f77512-36d5-4edd-b25f-b6a121738b16)
+
+![image](https://github.com/user-attachments/assets/588d9aef-8abd-4997-8435-7eebb57af7cc)
+
+How to shield? -> Place a VDD and VSS wire parallel to signal wire.
+
+
+
+
 
 
 
