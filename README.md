@@ -754,12 +754,30 @@ Max tran is 10% of clock period. Max cap is max cap of output pin of clock root 
 
 ![image](https://github.com/user-attachments/assets/0c66dda1-5090-4bf9-8c21-b366330d07a9)
 
+Post CTS STA analysis:
 
+![image](https://github.com/user-attachments/assets/618c65e3-e3dc-4dc0-b06f-463a76c443a8)
 
+read_lef:
+![image](https://github.com/user-attachments/assets/363ab064-dfbe-4e6c-b0e1-eb6d3adae67d)
 
+![image](https://github.com/user-attachments/assets/5205d679-a3e9-461c-b118-016858d464fc)
 
+read_def:
+![image](https://github.com/user-attachments/assets/19428e7e-4e1a-460a-b37f-d339413b392e)
 
+write_db
+![image](https://github.com/user-attachments/assets/f74e9904-5b39-4dae-b9b9-cf6a07352ece)
 
+![image](https://github.com/user-attachments/assets/0606463a-4d6b-46ed-a7e4-39d7e90ba222)
+
+![image](https://github.com/user-attachments/assets/3f0820ee-d92b-4a08-a8cb-e11b0749ccfd)
+
+![image](https://github.com/user-attachments/assets/ae10de8a-77c5-4c53-b66f-cbcb3a93b1c9)
+
+![image](https://github.com/user-attachments/assets/34d538a8-03e2-43e5-acad-7811dac23196)
+
+![image](https://github.com/user-attachments/assets/6c45fda4-ba5a-495a-8e40-01393b6fc910)
 
 
 
