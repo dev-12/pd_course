@@ -668,6 +668,18 @@ Checking:
 
 ![image](https://github.com/user-attachments/assets/66688f12-add3-4006-9ac7-3838a8ee72b9)
 
+It is giving another path. Running below command to check sta for previous path:
+
+![image](https://github.com/user-attachments/assets/daaa3ebd-5300-46db-9418-4f46466e00de)
+
+Slack is met:
+
+![image](https://github.com/user-attachments/assets/87c790dd-4fa0-4676-85e7-0aa1331cf61d)
+
+Delay reduced:
+
+![image](https://github.com/user-attachments/assets/474ff591-d113-43b3-ab56-aabfe670434c)
+
 
 
 
