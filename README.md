@@ -735,6 +735,12 @@ All commands:
 
 Next stage is power generation and routing in which above cts def will be used.
 
+Max tran is 10% of clock period. Max cap is max cap of output pin of clock root buffer.
+![image](https://github.com/user-attachments/assets/330871bc-510a-4c2d-94f1-9e8b8f33cc80)
+
+![image](https://github.com/user-attachments/assets/0e5ca07f-1e29-4622-8b21-597f5dfa3456)
+
+![image](https://github.com/user-attachments/assets/4148df76-bbad-457b-a6b8-ba5740a911ce)
 
 
 
