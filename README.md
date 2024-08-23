@@ -850,7 +850,8 @@ Opening DEF:
 
 ![image](https://github.com/user-attachments/assets/d31d1ccf-fbe8-4f3a-8072-89ab24dca943)
 
-![image](https://github.com/user-attachments/assets/50fa7c0a-4d53-475f-8d27-e1a1ffc37844)
+![image](https://github.com/user-attachments/assets/5363a8ab-a64b-4a0a-a367-cdab2b3e1f2c)
+
 
 
 
@@ -861,6 +862,10 @@ Routing remaining: run_routing
 ![image](https://github.com/user-attachments/assets/552a52f0-0d68-4c71-9628-7dfc6ddc949b)
 
 ![image](https://github.com/user-attachments/assets/b2b30675-9261-4edd-9d40-697598ecfc1a)
+
+No violations:
+![image](https://github.com/user-attachments/assets/3b891668-027a-446f-9458-d000c8db8d76)
+
 
 
 #### Triton Routing Theory
@@ -884,6 +889,19 @@ Routing remaining: run_routing
 
 
 
+![image](https://github.com/user-attachments/assets/b881de42-3a59-4412-a4f9-ccd1380bb323)
+
+DEF after routing:
+
+![image](https://github.com/user-attachments/assets/bc6f9d0c-93ce-45bb-8022-8c12a59239b1)
+
+![image](https://github.com/user-attachments/assets/c274b8f1-6025-4f3d-9106-71c51b4752d5)
+
+![image](https://github.com/user-attachments/assets/5c23423a-bf7a-434e-a4f1-a43b84d38d9d)
+
+![image](https://github.com/user-attachments/assets/b92a0eb8-2425-4f09-a8d3-8810938eb355)
+
+![image](https://github.com/user-attachments/assets/19609e05-0a44-4bd7-b0db-c96628ba21b9)
 
 
 
